@@ -4,7 +4,7 @@ Git für alle Hefteinträge/Materialien aus der Berufsschule
 | Dateiname    | Commit-Massage | Upload Datum |
 |--------------|:--------------:|:------------:|
 | ...          |                |              |
-| Berufsschule | 7.10.2025      | Oct 7, 2025  |
+| Berufsschule | 07.10.2025     | Oct 7, 2025  |
 | README.md    |                |              |
 
 
