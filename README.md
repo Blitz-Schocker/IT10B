@@ -2,7 +2,7 @@
 Git für alle Hefteinträge/Materialien aus der Berufsschule
 
 # WICHTIG!!!!
-ALLE Personnen mit Commit rechten bitte änderungen an OneNote dateie NUR in die <Dropbox/Commits für OneNote Dateien> einfügen. Ich werde diese dann zeitnah übertragen.
+ALLE Personnen mit Commit rechten bitte änderungen an OneNote dateien NUR in die <Dropbox/Commits für OneNote Dateien> einfügen. Ich werde diese dann zeitnah übertragen.
 
 | Dateiname    | Commit-Massage | Upload Datum |
 |--------------|:--------------:|:------------:|
