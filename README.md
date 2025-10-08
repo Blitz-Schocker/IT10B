@@ -1,10 +1,14 @@
 # IT10B
 Git für alle Hefteinträge/Materialien aus der Berufsschule
 
+# WICHTIG!!!!
+# ALLE Personnen mit Commit rechten bitte änderungen an OneNote dateie NUR in die <Dropbox/Commits für OneNote Dateien> einfügen. Ich werde diese dann zeitnah übertragen.
+
 | Dateiname    | Commit-Massage | Upload Datum |
 |--------------|:--------------:|:------------:|
 | ...          |                |              |
-| Berufsschule | 07.10.2025     | Oct 7, 2025  |
+| Dropbox      | Dropbox        | Oct 8, 2025  |
+| Berufsschule | 08.10.2025     | Oct 7, 2025  |
 | README.md    |                |              |
 
 
